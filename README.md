@@ -36,6 +36,6 @@ Having knowledge of these tools will make it easier for you to create, maintain 
     Kunal Vohra
     Masters in Applied Computer Science
     
-  ![Knowledge is Power](https://www.nwmissouri.edu/layout/v2019/images/svg/logo-n.svg)    
+  ![Knowledge is Power](https://i.pinimg.com/236x/89/4c/64/894c64813b6cb695c0913b7a7ecb850d--graduation-ideas-missouri-state-university.jpg)    
 
 
