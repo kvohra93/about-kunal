@@ -31,6 +31,6 @@ Having knowledge of these tools will make it easier for you to create, maintain 
  ## Contributions
     Kunal Vohra
     Masters in Applied Computer Science
-    ![Knowledge is Power](https://c4.wallpaperflare.com/wallpaper/499/228/4/dota-dota-2-invoker-dota-2-hd-wallpaper-preview.jpg)    
+    ![Knowledge is Power](about-kunal/NWMSULogo.pn/img.jpg?raw=true "Title")    
 
 
