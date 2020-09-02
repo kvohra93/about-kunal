@@ -1,29 +1,36 @@
-# about-kunal
+# Kunal's GitHub Repositories - https://github.com/kvohra93?tab=repositories
+* ## GitHub pages - https://kvohra93.github.io./ 
+  
+## About
+The repository will be used to develope my own website based on various tool like HTML, CSS, javascript, Node, etc. It can be used to spot progress in a current course I am pursuing ACS-44-563 - Developing Web Apps and Services. In order to view the code, you will need a text/code editor and to test the website, you can use any web browser for instance Google Chrome.
+
+## Recomended Tools
+In order for you to publish your own github pages, you would need to perform the following prerequisites:-
+  * Set up an account on GitHub
+  * Download GitHub desktop interface which helps in cloning and committing changes to the cloud from your PC
+                  OR
+  * You can also use the terminal on your computer to remotely connect to GitHub and retrieve files from repositories and co# about-kunal
 
 * ## Go to current Repository - https://github.com/kvohra93/about-kunal
-  
-## _Few of My Favourite Games_
-  ![Ellie and Joel](https://cdn.mos.cms.futurecdn.net/sK8KkS5emNLK6kA8afsYaf-1024-80.jpg.webp) - image taken from [gamesradar.com](https://www.gamesradar.com/the-last-of-us-hbo-series-release-date-cast-trailer/)
- 1. Last of Us  
- 2. Grand Theft Auto
- 3. Defense of the Ancients (DoTA 2)
- 4. DOOM
- 5. Mortal Kombat
- 6. FIFA
-     
-## _Favourite Team_ - **Chelsea FC**
-![Chelsea won Champions league in 2012-13 season](https://worldsoccertalk.com/wp-content/uploads/2015/09/chelsea-champions-league.jpg)
-  * Play in the English Premier League
-  * Have one the league 5 times 
-  * Also won the Champions League in 2013
- Image taken from - [Worldsoccertalk.com](https://worldsoccertalk.com/2012/05/19/chelsea-wins-2012-uefa-champions-league-final-video-highlights-video/)
+* #mmit your versions too                
+  * A text editor like Notepad++ or VS Code - Which helps in typing code
+  * You will also need an understanding of the following in order to create and stylize your own web page:-
+    1. HTML
+    2. CSS
+    3. javascript
+    4. JQuery
+    5. Node
+Having knowledge of these tools will make it easier for you to create, maintain and publish your own website but they are also not the only tools used in creating web pages.
 
- ## _Social Media_
- We can connect on social media via:-
-    [LinkedIn,](https://www.linkedin.com/in/kvohra93)
-    [ Instagram,](https://www.instagram.com/koonaaal)
-    [ GitHub,](https://github.com/kvohra93)
-    [ Steam](https://steamcommunity.com/id/blingyfire)
-    
-If interviews make you nervous, here is an article that might help - [Guide to Rocking your coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
+## Recommended Resources
+  The following are some helpful websites to learn web development from scratch :-
+    * [W3Schools.com](https://www.w3schools.com/)
+    * [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+    * [html.com](https://html.com/)
+
+ ## Contributions
+    Kunal Vohra
+    Masters in Applied Computer Science
+    ![Knowledge is Power](https://github.com/kvohra93/about-kunal/blob/master/NWMSULogo.png)    
+
 
