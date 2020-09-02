@@ -19,6 +19,7 @@ In order for you to publish your own github pages, you would need to perform the
     3. javascript
     4. JQuery
     5. Node
+
 Having knowledge of these tools will make it easier for you to create, maintain and publish your own website but they are also not the only tools used in creating web pages.
 
 ## Recommended Resources
@@ -30,6 +31,6 @@ Having knowledge of these tools will make it easier for you to create, maintain 
  ## Contributions
     Kunal Vohra
     Masters in Applied Computer Science
-    ![Knowledge is Power](https://a.thumbs.redditmedia.com/BhrmEc70AQN7PPwq8YT6aIAy4ktId1t0sln9X6dgZm8.png)    
+    ![Knowledge is Power](https://c4.wallpaperflare.com/wallpaper/499/228/4/dota-dota-2-invoker-dota-2-hd-wallpaper-preview.jpg)    
 
 
