@@ -1,13 +1,6 @@
 # about-kunal
-My name is **_Kunal Vohra_** and I joined Northwest Missouri State this fall as a graduate student pursuing Applied Computer Science. I am an Avid Gamer and also enjoy playing sports.
 
-## _Hobbies_
-In my free time, I could be found :-
-  * Playing Soccer
-  * Video Games
-  * Swimming
-  * Running
-  * Reading Fiction
+* ## Go to current Repository - https://github.com/kvohra93/about-kunal
   
 ## _Few of My Favourite Games_
   ![Ellie and Joel](https://cdn.mos.cms.futurecdn.net/sK8KkS5emNLK6kA8afsYaf-1024-80.jpg.webp) - image taken from [gamesradar.com](https://www.gamesradar.com/the-last-of-us-hbo-series-release-date-cast-trailer/)
