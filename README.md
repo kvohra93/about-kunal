@@ -1,4 +1,4 @@
-# Kunal's GitHub - https://github.com/kvohra93?tab=repositories
+# [Kunal's GitHub](https://github.com/kvohra93?tab=repositories)
 ## GitHub pages - https://kvohra93.github.io./ 
   
 ## About
