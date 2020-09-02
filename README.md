@@ -1,18 +1,17 @@
-# Kunal's GitHub Repositories - https://github.com/kvohra93?tab=repositories
-* ## GitHub pages - https://kvohra93.github.io./ 
+# Kunal's GitHub - https://github.com/kvohra93?tab=repositories
+## GitHub pages - https://kvohra93.github.io./ 
   
 ## About
 The repository will be used to develope my own website based on various tool like HTML, CSS, javascript, Node, etc. It can be used to spot progress in a current course I am pursuing ACS-44-563 - Developing Web Apps and Services. In order to view the code, you will need a text/code editor and to test the website, you can use any web browser for instance Google Chrome.
+
+## Go to current Repository- https://github.com/kvohra93/about-kunal
 
 ## Recomended Tools
 In order for you to publish your own github pages, you would need to perform the following prerequisites:-
   * Set up an account on GitHub
   * Download GitHub desktop interface which helps in cloning and committing changes to the cloud from your PC
-                  OR
-  * You can also use the terminal on your computer to remotely connect to GitHub and retrieve files from repositories and co# about-kunal
-
-* ## Go to current Repository - https://github.com/kvohra93/about-kunal
-* #mmit your versions too                
+  OR
+  * You can also use the terminal on your computer to remotely connect to GitHub and retrieve files from repositories and commit them after            
   * A text editor like Notepad++ or VS Code - Which helps in typing code
   * You will also need an understanding of the following in order to create and stylize your own web page:-
     1. HTML
@@ -31,6 +30,6 @@ Having knowledge of these tools will make it easier for you to create, maintain 
  ## Contributions
     Kunal Vohra
     Masters in Applied Computer Science
-    ![Knowledge is Power](https://github.com/kvohra93/about-kunal/blob/master/NWMSULogo.png)    
+    ![Knowledge is Power](https://a.thumbs.redditmedia.com/BhrmEc70AQN7PPwq8YT6aIAy4ktId1t0sln9X6dgZm8.png)    
 
 
