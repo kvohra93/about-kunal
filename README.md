@@ -1,5 +1,5 @@
 # [Kunal's GitHub](https://github.com/kvohra93?tab=repositories)
-## GitHub pages - https://kvohra93.github.io./ 
+## GitHub pages - https://kvohra93.github.io/about-kunal/ 
   
 ## About
 The repository will be used to develope my own website based on various tool like HTML, CSS, javascript, Node, etc. It can be used to spot progress in a current course I am pursuing ACS-44-563 - Developing Web Apps and Services. In order to view the code, you will need a text/code editor and to test the website, you can use any web browser for instance Google Chrome.
