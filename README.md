@@ -31,6 +31,6 @@ Having knowledge of these tools will make it easier for you to create, maintain 
  ## Contributions
     Kunal Vohra
     Masters in Applied Computer Science
-    ![Knowledge is Power](about-kunal/NWMSULogo.pn/img.jpg?raw=true "Title")    
+    ![Knowledge is Power](https://www.nwmissouri.edu/layout/v2019/images/svg/logo-n.svg)    
 
 
