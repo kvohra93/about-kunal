@@ -25,12 +25,15 @@ Having knowledge of these tools will make it easier for you to create, maintain 
 ## Recommended Resources
   The following are some helpful websites to learn web development from scratch :-
     * [W3Schools.com](https://www.w3schools.com/)
+
     * [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+
     * [html.com](https://html.com/)
+
 
  ## Contributions
     Kunal Vohra
     Masters in Applied Computer Science
-    ![Knowledge is Power](https://www.nwmissouri.edu/layout/v2019/images/svg/logo-n.svg)    
+    ![Knowledge is Power](https://i.pinimg.com/originals/38/62/dd/3862dd43c21e598105cc5f8ad1e51043.png)    
 
 
