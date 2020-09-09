@@ -1,0 +1,111 @@
+h3 {
+    float: inline-end;
+    font-family:courier;
+    color: azure;
+  }
+
+  aside {
+    width: 60%;
+    padding-left: 0;
+    margin-left: 0rem;
+    float: right;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:black;
+       
+}
+
+
+body{
+    color:coral;
+    background-color: black;
+    font-style: normal;
+    font-family: 'verdana';
+}
+
+.Author{
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+
+nav{
+    margin-top:2px;
+    margin-bottom: 5%;
+    padding-bottom: 50px;
+    overflow: visible;
+    max-block-size: 80px;
+
+}
+
+nav img{
+    float:right;
+    
+    border-radius: 50%;
+}
+
+nav a{
+    float: center;
+    text-align: center;
+    font-style: oblique,;
+    font-weight: bolder;
+    color: black;
+    padding-left: 10px;
+    padding-right: 0px;
+    font-size: 30px;
+    margin-inline-start: 30px;
+
+}
+nav a:hover{
+    background-color:grey;
+    color: white;
+}
+
+table tr td{ 
+    border: 2px solid coral;
+    height: max-content;
+    width: min-content;
+}
+
+p.I {
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2.X{
+    text-decoration: underline;
+}
+
+form{
+    width: 150px;
+    clear: both;
+}
+form input{
+    width: 100%;
+    clear: both;
+}
+.button{
+    width: 75px;
+}
+
+a{
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+
+iframe{
+    background-color: black;
+}
+#P1{
+    color: coral;
+    text-align:center;
+}
+
+#todo{
+    padding: 1in;
+    border-collapse: collapse;
+    border-style: none;
+    width: 105px;
+}
+
