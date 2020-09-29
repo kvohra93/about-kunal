@@ -5,11 +5,11 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home</title>
+    <title>BMI Calculator</title>
     <!-- MDB -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/1.0.0-alpha3/mdb.min.css" rel="stylesheet" />
     <!-- custom stylesheet-->
-    <link href="main.css" rel="stylesheet">
+    <link href="scripts/main.css" rel="stylesheet">
 
 
 
@@ -18,64 +18,59 @@
         <div class="container-fluid">
             <a href="index.html">Home</a>
             <a href="contact.html">Contact</a>
-            <a href="interact.html">Bucket List</a>
+            <a href="Calculate.html">BMI Calculator</a>
             <img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/107395668_10223917595310409_1962993713091967036_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=Gf_jWDb0A3sAX8nrwR5&_nc_ht=scontent-dfw5-1.xx&oh=16d87119ee023a58f61160568101cf30&oe=5F7FD198"
                 class="img-circle" alt="Kunal" width="70" height="65">
-
-
         </div>
     </nav>
+    <main>
 
+        <h2> BMI CALCULATOR </h2>
+        <hr>
 
+    <fieldset>
 
-    </section>
-    </Article>
-    <h2>FIll in your Bucket list items and set goals for when you will achieve them</h2>
+        <label for="guest">Enter your name (2 to 40 characters):</label>
+        <input id="guest" type="text" minlength="2" maxlength="40" value="name">
+
+      </fieldset>
+
+      <p></p>
+  
+      <fieldset>
+
+        <label for="weight">Enter your weight in kgs</label>
+        <input id="weight" type="number" min="1" maxlength="3" value="">
+
+      </fieldset>
+
+      <p></p>
+      
+      <fieldset>
+
+        <label for="height">Enter your height in meters</label>
+        <input id="height" type="number" min =0 step=".01" value="">
+        
+      </fieldset>
+
+      <p></p>
+      
+      <hr>
+  
+      
+      <button id="clicker">Calculate BMI</button>
+      <button id="wiper">Reset Storage</button>
+
+      <hr>
+  
+      <p id="result"></p>
+      
+  
+    </main>
+  
     <hr>
-    <form>
-        <label for="Activity">Ativity you want to do:</label>
-        <br>
-        <input type="text" id="Activity" name="activity">
-        <br>
-        <label for="dateby">Do it by:</label>
-        <br>
-        <input type="text" id="dateby" name="dateby">
-        <label for="email">Email</label>
-        <br>
-    </form>
-    <hr>
-    <table id="todo">
-
-        <h2>Your bucket list items</h2>
-
-        <tr>
-
-            <th>Activity</th>
-            <th>Elapsed By</th>
-        </tr>
-        <tr>
-
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-
-            <td></td>
-            <td></td>
-        </tr>
-    </table>
-    <hr>
-
+  
+  
 
     <footer>
         <p class="Author">Author : Kunal Vohra</p>
@@ -90,7 +85,8 @@
                 alt="facebook Link" width="50" height="50"></a>
 
     </footer>
-
+      
+    <script src="scripts/main.js"></script>
 
 </body>
 </head>
