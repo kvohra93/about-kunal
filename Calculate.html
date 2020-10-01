@@ -31,7 +31,7 @@
     <fieldset>
 
         <label for="guest">Enter your name (2 to 40 characters):</label>
-        <input id="guest" type="text" minlength="2" maxlength="40" value="name">
+        <input id="guest" type="text" minlength="2" maxlength="40" placeholder="Name">
 
       </fieldset>
 
@@ -40,7 +40,7 @@
       <fieldset>
 
         <label for="weight">Enter your weight in kgs</label>
-        <input id="weight" type="number" min="1" maxlength="3" value="">
+        <input id="weight" type="number" min="1" maxlength="3" placeholder="Weight in kg">
 
       </fieldset>
 
@@ -49,7 +49,7 @@
       <fieldset>
 
         <label for="height">Enter your height in meters</label>
-        <input id="height" type="number" min =0 step=".01" value="">
+        <input id="height" type="number" min =0 step=".01" placeholder="Height in meters">
         
       </fieldset>
 
@@ -57,13 +57,21 @@
       
       <hr>
   
-      
-      <button id="clicker">Calculate BMI</button>
+      <button id ="cal">Calculate BMI</button>
+      <button id="clicker">Click Me!</button>
       <button id="wiper">Reset Storage</button>
 
       <hr>
-  
       <p id="result"></p>
+      <hr>
+
+      <button id="getRandomFact">Get Random Fact</button>
+      
+
+
+      <hr>
+  
+      <p id="getFact"></p>
       
   
     </main>
@@ -87,6 +95,7 @@
     </footer>
       
     <script src="scripts/main.js"></script>
+    <script src="scripts/ajax.js"></script>
 
 </body>
 </head>
