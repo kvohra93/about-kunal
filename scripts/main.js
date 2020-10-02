@@ -14,8 +14,6 @@ document.querySelector ("#cal").addEventListener('click', () =>{
     const ans = `${s} Your BMI is ${m}`
     document.querySelector('#result').innerHTML = ans
     console.log('Finished calculation of BMI')
-
-
 document.querySelector('#clicker').addEventListener('click', () => {
     console.log('Starting clicker handler')
     const s = document.querySelector('#guest').value
