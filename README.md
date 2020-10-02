@@ -1,8 +1,10 @@
 # [Kunal's GitHub](https://github.com/kvohra93?tab=repositories)
 ## GitHub pages - https://kvohra93.github.io/about-kunal/ 
   
-## About
-The repository will be used to develope my own website based on various tool like HTML, CSS, javascript, Node, etc. It can be used to spot progress in a current course I am pursuing ACS-44-563 - Developing Web Apps and Services. In order to view the code, you will need a text/code editor and to test the website, you can use any web browser for instance Google Chrome.
+# _About-Me_Website
+My name is **_Kunal Vohra_** and I joined Northwest Missouri State this fall as a graduate student pursuing Applied Computer Science. I am an Avid Gamer and also enjoy playing sports.
+
+This website contains a function to calculate the Body Mass Index of a person given their weight in killograms and their height in meters.
 
 ## Go to current Repository- https://github.com/kvohra93/about-kunal
 
@@ -21,6 +23,17 @@ In order for you to publish your own github pages, you would need to perform the
     5. Node
 
 Having knowledge of these tools will make it easier for you to create, maintain and publish your own website but they are also not the only tools used in creating web pages.
+
+
+
+# _Body Mass Index
+This value tells us if a person is in what weight category, i.e if they are overweight, underweight, fit or obeese. 
+
+The website validates values of inputs gives by the user using Q unit tests. 
+
+There is a random fact generator added to the calculate page using AJAX
+
+**_Note: _***The Qunit tests can be loaded from the load test button on the footer found on the Calculate page of the website*
 
 ## Recommended Resources
   The following are some helpful websites to learn web development from scratch :-
